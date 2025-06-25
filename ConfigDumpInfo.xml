@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВидыРабот" id="331873be-7db4-41d6-abd3-3dbaed2b630f" configVersion="5372787dad2f8b4ca4d05e956a9ab2ac00000000">
+			<Metadata name="Catalog.ВидыРабот.Attribute.Цена" id="1f6982ae-bc58-4d2a-b5da-c1e0263c61d1"/>
+			<Metadata name="Catalog.ВидыРабот.Attribute.ТипРаботы" id="a15c7c63-9a00-4ce9-b659-8bf4254ee6db"/>
+			<Metadata name="Catalog.ВидыРабот.Attribute.Описание" id="b95b32a7-ca2d-4604-9fc5-13e78243b812"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты" id="6f01aeee-3566-454c-ba05-a0b5875d3146" configVersion="811ae1a4a03b804d94beaeac62c39e5700000000">
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="7ca558ee-5bee-4142-bb80-88f74cdd9bd8"/>
+		</Metadata>
+		<Metadata name="Catalog.Материалы" id="1df7aed3-9b88-48c9-80b9-2d6cf9402a47" configVersion="c38ed9d26ad40641bee70030e75ce5f500000000">
+			<Metadata name="Catalog.Материалы.Attribute.ТипМатериала" id="4fc9a671-7a42-4fb7-8921-7646e2fd0952"/>
+			<Metadata name="Catalog.Материалы.Attribute.НаСкладе" id="8faeba9e-606b-40af-adbf-8a5176a85c4d"/>
+		</Metadata>
+		<Metadata name="Catalog.Оборудование" id="9f27df36-93ca-46a3-8912-07411ad61514" configVersion="2ed6ee8d4ab5e04180108cf9cbfee13400000000">
+			<Metadata name="Catalog.Оборудование.Attribute.СерийныйНомер" id="a1207c7b-cfa9-4115-bda4-1ad4702301fd"/>
+		</Metadata>
+		<Metadata name="Catalog.Сотрудники" id="6fdba493-531f-49aa-b315-09ce4fe40beb" configVersion="e0f0e35eb17e5745a117f4a1b17ef95f00000000">
+			<Metadata name="Catalog.Сотрудники.Attribute.Телефон" id="618bc35f-5e59-46e2-91dd-4c1c2ddc470d"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="e1ca9fed-5cd2-4516-8a1e-e5aa2167968e" configVersion="125a8b25c1c0d8478a57946198a9e22700000000"/>
+		<Metadata name="DataProcessor.Обработка" id="78506f3c-b45c-4685-92c1-9f140c0623f2" configVersion="ffa0e72adf80cc4495dfbd9304c89b9300000000"/>
+		<Metadata name="Document.АктВыполненныхРабот" id="3972683a-10af-40de-9882-c6cd354b29f1" configVersion="77c410fa3a6f734c941cbea887fe6a5300000000">
+			<Metadata name="Document.АктВыполненныхРабот.TabularSection.Работы.Attribute.ВидРаботы" id="03980263-6a53-4424-9ea3-148ea3934c57"/>
+			<Metadata name="Document.АктВыполненныхРабот.TabularSection.Работы.Attribute.Сумма" id="074805cf-cd83-4e4e-9896-08ce41ce2aac"/>
+			<Metadata name="Document.АктВыполненныхРабот.TabularSection.Работы" id="4b7c9ab3-ff53-472a-af40-a0c343da3e0f"/>
+			<Metadata name="Document.АктВыполненныхРабот.TabularSection.Работы.Attribute.Время" id="8476914f-1559-4e24-bb2d-528d9cd87ef7"/>
+			<Metadata name="Document.АктВыполненныхРабот.TabularSection.Работы.Attribute.Оборудование" id="ad16f80a-8f17-4cf8-a1e0-6dcd4b9aa15d"/>
+			<Metadata name="Document.АктВыполненныхРабот.Attribute.Заявка" id="dfc197df-5a18-45e4-a2e7-ddaf28e13ffc"/>
+			<Metadata name="Document.АктВыполненныхРабот.TabularSection.Работы.Attribute.Сотрудник" id="f87c7bb2-d39e-46fb-9a53-236194dce643"/>
+		</Metadata>
+		<Metadata name="Document.АктВыполненныхРабот.ObjectModule" id="3972683a-10af-40de-9882-c6cd354b29f1.0" configVersion="eba97367aebda346910bd6acf2ad674d00000000"/>
+		<Metadata name="Document.Заявка" id="1af0df8d-2248-48bd-93fb-ef007a79c904" configVersion="183b52ac20722047b2225daaa62a155300000000">
+			<Metadata name="Document.Заявка.Attribute.Клиент" id="472e5e1c-fe81-40e0-b868-ceb17ed658be"/>
+			<Metadata name="Document.Заявка.Attribute.Адрес" id="7911bec8-6760-4420-baee-debc99b7bb2e"/>
+			<Metadata name="Document.Заявка.Attribute.Оборудование" id="a3a6b43a-fb42-4b33-98f7-b5f2716ff2f7"/>
+			<Metadata name="Document.Заявка.Attribute.ТипРаботы" id="c3589d27-85be-4f21-9db6-7f884d205b4c"/>
+		</Metadata>
+		<Metadata name="Document.РемонтноеЗадание" id="b9e75d9b-eeda-469e-af94-8a601f12c491" configVersion="83527ee59554574e8b12c97d8bf2fc7f00000000">
+			<Metadata name="Document.РемонтноеЗадание.TabularSection.ИспользованныеМатериалы" id="5d2e9466-c366-4032-ad32-c41faecf6c59"/>
+			<Metadata name="Document.РемонтноеЗадание.Attribute.Статус" id="7b032786-7134-421d-99e0-8baf38f31f53"/>
+			<Metadata name="Document.РемонтноеЗадание.TabularSection.ИспользованныеМатериалы.Attribute.Колличество" id="a2411116-13b1-4d36-b874-ab7493378798"/>
+			<Metadata name="Document.РемонтноеЗадание.Attribute.ИдентификаторЗавки" id="bfb03447-ec12-42bc-a8d2-30a07449acc2"/>
+			<Metadata name="Document.РемонтноеЗадание.TabularSection.ИспользованныеМатериалы.Attribute.Материал" id="ee5128ec-ad2d-48fa-ac30-0b432375046f"/>
+			<Metadata name="Document.РемонтноеЗадание.Attribute.Исполняющий" id="f8e08b14-e0f9-428b-b056-6516b7659510"/>
+		</Metadata>
+		<Metadata name="Document.СписаниеМатериалов" id="735f3da6-b420-4652-85a2-57eea8c4c174" configVersion="3c4200da29850241be27464a8ee2285900000000"/>
+		<Metadata name="Enum.Статус" id="8ebcb3ac-c40f-420f-b85c-16a53474eddf" configVersion="4aeff4988e4b224fac3b1ef20f2668f000000000">
+			<Metadata name="Enum.Статус.EnumValue.ВРаботе" id="b2d8556a-9ecc-49dc-9193-d2eda5ebdb9e"/>
+			<Metadata name="Enum.Статус.EnumValue.Отмена" id="d32de4be-7dd6-47c7-b142-ec25a6802e74"/>
+			<Metadata name="Enum.Статус.EnumValue.Выполнено" id="db1e161f-68c3-4a10-8012-7635bd57b7bb"/>
+		</Metadata>
+		<Metadata name="Enum.ТипМатериала" id="4d8b1d5f-6ba8-4cf8-be0e-0c0adefdbff5" configVersion="769ff7381658d94d9496132ef1882e3000000000">
+			<Metadata name="Enum.ТипМатериала.EnumValue.Расходник" id="3a427549-38c1-4fe4-aed8-138bf05636ea"/>
+			<Metadata name="Enum.ТипМатериала.EnumValue.Запчасть" id="98953c96-5f74-47e0-9dc9-97e0c206071e"/>
+		</Metadata>
+		<Metadata name="Enum.ТипРаботы" id="bae458ba-ac85-424e-b2e6-91ad70144517" configVersion="6087504ada38e546a2d0954977836cd300000000">
+			<Metadata name="Enum.ТипРаботы.EnumValue.Установка" id="06dd1c25-6a09-40da-88e5-3cd0505fbc11"/>
+			<Metadata name="Enum.ТипРаботы.EnumValue.ТехОбслуживание" id="3a22e29a-7bf8-4688-b844-0d8c126c3948"/>
+			<Metadata name="Enum.ТипРаботы.EnumValue.Ремонт" id="f5084541-c45b-487b-87d7-78cd5382baee"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ИсторияОбслуживания" id="30b16176-6ea1-4558-82c9-bffc0a5f8055" configVersion="b7fb0fb1ffb67d43b14998ddaf19d2e000000000">
+			<Metadata name="InformationRegister.ИсторияОбслуживания.Dimension.Сотрудник" id="40ec86ab-20e8-4b6c-a772-4900d08faa09"/>
+			<Metadata name="InformationRegister.ИсторияОбслуживания.Resource.ДатаОбслуживания" id="cad932ec-3ba3-4cd2-895c-eaad6bcb8a53"/>
+			<Metadata name="InformationRegister.ИсторияОбслуживания.Dimension.Заявка" id="f4e74974-ac81-4ada-8680-d7999f72e1b6"/>
+			<Metadata name="InformationRegister.ИсторияОбслуживания.Dimension.ВидРаботы" id="fae1e29c-8399-40a2-b074-774b1b3f9e88"/>
+			<Metadata name="InformationRegister.ИсторияОбслуживания.Dimension.Оборудование" id="fb58eab8-178f-406e-bc87-2169312d2730"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="c481a873-6425-4cd5-984a-acf5474ad27f" configVersion="644774755a5cce41b726228629a9b79500000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
